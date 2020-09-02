@@ -1,3 +1,5 @@
+// Getting Information from System Properties
+
 import java.util.Properties;
 
 public class GetProps {
